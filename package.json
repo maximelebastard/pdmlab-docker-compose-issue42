@@ -1,0 +1,10 @@
+{
+  "name": "pdmlab-dockercompose-issue42",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Maxime Lebastard <maxime@pathmotion.com>",
+  "license": "MIT",
+  "dependencies": {
+    "docker-compose": "^0.14.1"
+  }
+}
